@@ -1,0 +1,6 @@
+declare module 'ethjs-provider-http'
+declare module 'ethjs-query'
+declare module 'ethjs-contract'
+declare module 'ethjs-provider-signer'
+declare module 'ethjs-signer'
+declare module 'ethjs-account'

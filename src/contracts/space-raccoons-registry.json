@@ -1,0 +1,39 @@
+[
+  {
+    "constant": false,
+    "inputs": [
+      {
+        "name": "digest",
+        "type": "bytes32"
+      },
+      {
+        "name": "exp",
+        "type": "uint256"
+      }
+    ],
+    "name": "issueCard",
+    "outputs": [],
+    "payable": false,
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "constant": true,
+    "inputs": [
+      {
+        "name": "digest",
+        "type": "bytes32"
+      }
+    ],
+    "name": "hasCard",
+    "outputs": [
+      {
+        "name": "",
+        "type": "bool"
+      }
+    ],
+    "payable": false,
+    "stateMutability": "view",
+    "type": "function"
+  }
+]
