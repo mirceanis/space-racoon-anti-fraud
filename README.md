@@ -1,5 +1,5 @@
 # space-raccoon-anti-fraud
-javascript bindings for the anti-fraud layer presented in blockchain and the city challenge lyon 2019
+Typescript bindings for the anti-fraud layer presented in blockchain and the city challenge lyon 2019
 
 ## usage
 
